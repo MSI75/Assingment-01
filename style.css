@@ -1,0 +1,87 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+/* first section  */
+h1{
+    font-size: 50px;
+}
+p{
+    color: #828282;
+}
+.orange-color{
+    color: orange;
+}
+.flexble-container{
+    display: flex;
+    margin-bottom: 50px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 60%;
+    padding-top: 10px;
+}
+.ancor{
+    padding-top: 21px;
+}
+.link-button{
+    text-decoration: none;
+    background: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
+    padding: 12px 16px;
+    color: white;
+    border-radius: 100px;
+}
+/* second section  */
+
+.second{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: center left;
+}
+/* third section  */
+.third-recipes{
+    padding-bottom: 50px;
+}
+.line-center{
+    position: absolute;
+    width: 706px;
+    height: 136px;
+    left: 345px;
+}
+.line-center h2{
+    text-align: center;
+}
+/* four section  */
+.foru-food-area{
+   margin-top: 200px;
+}
+.foodes{
+    background: #FFFFFF;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+    padding: 20px;
+    border-radius: 30px;
+    margin-top: 20px 0px;
+}
+.foodes img{
+    width: 100%;
+}
+/* five section  */
+.Subscribers{
+    margin: 25px;
+}
+/* footer  */
+.yellow{
+    color: greenyellow;
+}
+.white{
+    color: white;
+}
+footer{
+    text-align: center;
+    background-color: black;
+}
